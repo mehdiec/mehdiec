@@ -1,14 +1,15 @@
 ### Hi 👋 My name is Mehdi
 
+
 **Master of Science in Engineering major Mathematics and Data Sciences from CentraleSupélec**
 
-<a href="https://www.linkedin.com/in/mehdi-ech-chouini-023753176/><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://github.com/mehdiec/"><img align="left" width=22px src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/>
-</a>
+[<img align="center" alt="https://www.linkedin.com/in/mehdi-ech-chouini-023753176/" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mehdi-ech-chouini-023753176/)
+ 
+
 
 <br>
 
-:telescope: I am particularly interested in the applications of Machine Learning and Deep Learning applyed to healthcare.
+:telescope: I am particularly interested in the applications of Machine Learning and Deep Learning to healthcare.
 
 📫 How to reach me: mehdiechh@gmail.com
 
